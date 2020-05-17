@@ -39,6 +39,8 @@ Change the color of a game object.
 
 ### SOUND 
 
+Play a sound.
+
 * AUDIO CLIP
 * VOLUME
 * MONO
