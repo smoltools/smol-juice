@@ -69,7 +69,7 @@ SmolJuice.Stop(gameObject);
 
 * gameObject -> The game object that you want to stop the juice. (NOTE THAT THIS OBJECT MUST HAVE A JUICE COMPONENT)
 
-## GETTING STARTED
+## HOW TO USE
 
 * Add a juice component to a game object.
 * Set the parameters as you like.
