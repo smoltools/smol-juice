@@ -58,7 +58,7 @@ Start a selected juice.
 SmolJuice.Start(gameObject, order);
 ```
 
-* gameObject -> The game object that you want to start the juice. (NOTE THAT THIS OBJECT MUST HAVE A JUICE COMPONENT)
+* gameObject -> The game object that you want to start the juice. (NOTE THAT THIS GAME OBJECT MUST HAVE A JUICE COMPONENT)
 * order -> The order from up to down of the component in the game object's inspector. (ONLY RELATED TO OTHERS JUICE COMPONENTS) You can leave this empty if your game object only has one juice component.
 
 ### STOP JUICE
@@ -69,7 +69,7 @@ Stop a current active juice.
 SmolJuice.Stop(gameObject);
 ```
 
-* gameObject -> The game object that you want to stop the juice. (NOTE THAT THIS OBJECT MUST HAVE A JUICE COMPONENT)
+* gameObject -> The game object that you want to stop the juice. (NOTE THAT THIS GAME OBJECT MUST HAVE A JUICE COMPONENT)
 
 ## HOW TO USE
 
