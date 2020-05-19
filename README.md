@@ -2,49 +2,45 @@
 
 Unity asset that provides juicy feedbacks to improve the gamefeel of your game.
 
-## FEATURES
+## BEHAVIORS
 
 ### POP
 
-Use tweens to change the scale in and out of a game object.
+Uses tweens to change the scale in and out of a game object.
 
-* IN TIME
-* IN EASE
-* OUT TIME
-* OUT EASE
-* WAIT TIME
-* MODE
-* SCALE
-* ENABLED
+* IN TIME - Duration in secconds that the game object will take to scale in.
+* IN EASE - Ease function that will be used to scale in.
+* OUT TIME - Duration in secconds that the game object will take to scale out.
+* OUT EASE - Ease function that will be used to scale out.
+* WAIT TIME - Duration in secconds that the game object will wait between scale in and scale out.
+* MODE - Relative (CURRENT SCALE += NEW SCALE) or absolute (CURRENT SCALE = NEW SCALE). 
+* SCALE - Scale used to scale in.
 
 ### SHAKE
 
 Shake a game object.
 
-* TIME
-* MAGNITUDE
-* FADE 
-* ENABLED
+* TIME - Duration of the shake in seccond.
+* MAGNITUDE - How strong the shake will be.
+* FADE - If enabled the shake will stop gradually.
 
 ### FLASH
 
 Change the color of a game object.
 
-* COLOR
-* BRIGHTNESS
-* IN TIME
-* WAIT TIME
-* OUT TIME
-* ENABLED
+* COLOR - The color that the game object will change for.
+* BRIGHTNESS - How strong the color will be.
+* IN TIME - Duration in secconds to fade in the color.
+* WAIT TIME - Duration in secconds to wait between fade in and fade out.
+* OUT TIME - Duration in secconds to fade out the color.
 
 ### SOUND 
 
 Play a sound.
 
-* AUDIO CLIP
-* VOLUME
-* MONO
-* ENABLED
+* AUDIO CLIP - Clip of the sound that will be played.
+* VOLUME - Volume of the sound.
+* MONO - If enabled, only one sound at a time.
 
 ## METHODS
 
