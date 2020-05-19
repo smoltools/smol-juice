@@ -8,6 +8,8 @@ Unity asset that provides juicy feedbacks to improve the gamefeel of your game.
 
 Uses tweens to change the scale in and out of a game object.
 
+![](POP.gif)
+
 * IN TIME - Duration in secconds that the game object will take to scale in.
 * IN EASE - Ease function that will be used to scale in.
 * OUT TIME - Duration in secconds that the game object will take to scale out.
@@ -20,6 +22,8 @@ Uses tweens to change the scale in and out of a game object.
 
 Shake a game object.
 
+![](SHAKE.gif)
+
 * TIME - Duration of the shake in seccond.
 * MAGNITUDE - How strong the shake will be.
 * FADE - If enabled the shake will stop gradually.
@@ -27,6 +31,8 @@ Shake a game object.
 ### FLASH
 
 Change the color of a game object.
+
+![](FLASH.gif)
 
 * COLOR - The color that the game object will change for.
 * BRIGHTNESS - How strong the color will be.
