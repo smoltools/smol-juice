@@ -1,4 +1,4 @@
-![](Logo.png)
+![](Logo.png =250x250)
 
 Unity asset that provides juicy feedbacks to improve the gamefeel of your game.
 
