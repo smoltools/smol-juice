@@ -1,4 +1,4 @@
-# SMOL JUICE
+![](LOGO.png)
 
 Unity asset that provides juicy feedbacks to improve the gamefeel of your game.
 
@@ -73,7 +73,7 @@ SmolJuice.Stop(gameObject);
 
 ## NAMESPACE
 
-To access the juice component you must use the namespace called "SmolTools".
+If you want to access the juice component you must use the namespace called "SmolTools".
 
 ## HOW TO USE
 
