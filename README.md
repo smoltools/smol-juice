@@ -86,3 +86,5 @@ SmolJuice.Start(gameObject);
 ...and that's it!
 
 Asset Store Link http://u3d.as/1TZC
+
+Icon made by Freepik from www.flaticon.com
