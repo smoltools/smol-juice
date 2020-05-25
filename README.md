@@ -84,3 +84,5 @@ If you want to access the juice component you must use the namespace called "Smo
 SmolJuice.Start(gameObject);
 ```
 ...and that's it!
+
+Asset Store Link http://u3d.as/1TZC
